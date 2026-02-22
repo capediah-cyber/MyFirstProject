@@ -10,7 +10,7 @@ I focus on practical, hands-on projects that combine programming, data analysis,
 - 🔭 I’m currently working on: Password strength classification and network security projects.
 - 🌱 I’m currently learning: Advanced cybersecurity techniques, malware analysis, and AI-driven security solutions.
 - 💻 Skills: Python, Jupyter, Data Analysis, Machine Learning, Cybersecurity fundamentals, Git & GitHub.
-- 📫 How to reach me: [Email / LinkedIn link]
+- 📫 How to reach me: [capediah@gmail.com / LinkedIn link]
 
 ## Projects
 - **Password Strength Classification** – Using Logistic Regression to classify passwords into Weak, Medium, and Strong categories.
